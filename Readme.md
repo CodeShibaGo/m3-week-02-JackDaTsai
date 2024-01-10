@@ -1,4 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/vlJXFE8Y)
+
 # m3-week-02
 
 | #  | 學習項目                        | 作品連結                                                                            |
@@ -11,7 +12,7 @@
 | 06 | 通過構建摩天輪來學習 CSS 動畫           | https://jackdatsai.github.io/m3-week-02-JackDaTsai/ferris_wheel/index.html      |
 | 07 | 透過建立一隻企鵝學習 CSS 變形效果         | https://jackdatsai.github.io/m3-week-02-JackDaTsai/penguin/index.html           |
 | 08 | 透過畫一隻貓學習進階 CSS              | https://jackdatsai.github.io/m3-week-02-JackDaTsai/cat_painting/index.html      |
-| 09 | 製作一個致敬頁面 Tribute Page       |                                                                                 |
+| 09 | 製作一個致敬頁面 Tribute Page       | https://jackdatsai.github.io/m3-week-02-JackDaTsai/tribute_page/index.html      |
 | 10 | 製作一個個人作品集網站 Portfolio       |                                                                                 |
 | 11 | 導覽列切板                       | https://jackdatsai.github.io/m3-week-02-JackDaTsai/navbar/index.html            |
 | 12 | 頁尾切板                        | https://jackdatsai.github.io/m3-week-02-JackDaTsai/footer/index.html            |
