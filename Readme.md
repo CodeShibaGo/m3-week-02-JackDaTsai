@@ -16,4 +16,4 @@
 | 10 | 製作一個個人作品集網站 Portfolio       | https://jackdatsai.github.io/m3-week-02-JackDaTsai/full_page_layout/index.html  |
 | 11 | 導覽列切板                       | https://jackdatsai.github.io/m3-week-02-JackDaTsai/navbar/index.html            |
 | 12 | 頁尾切板                        | https://jackdatsai.github.io/m3-week-02-JackDaTsai/footer/index.html            |
-| 13 | RWD 網頁切板                    |                                                                                 |
+| 13 | RWD 網頁切板                    | https://jackdatsai.github.io/m3-week-02-JackDaTsai/rwd/index3.html              |
