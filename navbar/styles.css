@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans+TC:100,300,400,500,700,900&display=swap");
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css");
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+.main-header{
+    width: 100%;
+    background: linear-gradient(0deg,#fe70d8,#3713c1);
+}
+.container{
+    margin: auto;
+    max-width: 1200px;
+    display: flex;
+    padding: 10px 20px;
+    align-items: center;
+}
+.logo{
+    width: 100px;
+}
+.logo img{
+    width: 100%;
+    vertical-align: middle;
+}
+.header-search{
+    display: flex;
+}
+.header-search input,
+.header-search button{
+    border:none;
+    padding: 6px 1em;
+    background-color: #fff;
+}
+.header-search input:focus,
+.header-search button:focus{
+    outline: none;
+}
+.header-search input[type="search"]{
+    border-radius: 200px 0 0 200px;
+}
+.header-search button{
+    border-radius: 0 200px 200px 0;
+}
+.main-nav{
+    margin: auto;
+    display: flex;
+}
+.main-nav a{
+    color: #fff;
+    text-decoration: none;
+    padding: 0 1em;
+    transform: translateY(0px);
+    transition: .3s;
+    position: relative;
+}
+.main-nav a:hover{
+    transform: translateY(-3px);
+}
+.main-nav a:after{
+    content: '';
+    height: 0;
+    position: absolute;
+    left: 50%;
+    right: 50%;
+    bottom: -10px;
+    border-bottom: 1px solid #fff;
+    transition: .3s;
+}
+.main-nav a:hover:after{
+    right: 0;
+    left: 0;
+}
